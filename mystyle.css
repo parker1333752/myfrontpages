@@ -1,9 +1,3 @@
-h1{
-    color: red;
-}
-#a123{
-    color: #aqua;
-}
-#abc{
-    color: #0af;
+#mycanvas{
+    background-color: aqua;
 }
