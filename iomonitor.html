@@ -1,19 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>I/O Monitor (NI)</title>
-    <link rel="stylesheet" type="text/css" href="mystyle.css">
-    <script type="text/javascript" src="jquery-2.1.4.min.js"></script>
-    <script type="text/javascript" src="myscript.js"></script>
-
-</head>
-<body>
-    <input id="namevalue" type="text">
-    <br>
-    <button id="btn">Send</button>
-    result: <span id="result"></span>
-</body>
+    <head>
+        <meta charset="UTF-8">
+        <title>I/O Monitor (NI)</title>
+        <link rel="stylesheet" type="text/css" href="mystyle.css">
+        <link rel="shortcut icon" href="favicon.ico">
+        <script type="text/javascript" src="jquery-2.1.4.min.js"></script>
+        <script type="text/javascript" src="myscript.js"></script>
+    </head>
+    <body>
+        <div id="container">
+            <div id="logo">
+                <a href="#"><img src="nilogo.png" alt="logo" ></a>            </div>
+            <div id="navigator">
+                <table>
+                    <tr id="tb1">
+                        <td class="tdc"><input id="td1" type="button"></td>
+                        <td class="tdc"><input id="td2" type="button"></td>
+                        <td class="tdc"><input id="td3" type="button"></td>
+                        <td class="tdc"><input id="td4" type="button"></td>
+                        <td class="tdc"><input id="td5" type="button"></td>
+                    </tr>
+                </table>
+            </div>
+            <div id="content"></div>
+            <div id="statusbar"></div>
+        </div>
+    </body>
 </html>
-
-
