@@ -21,7 +21,7 @@ img{
     width: auto;
     position: static;
     background-color: gray;
-    background-image: url("nilogobg.png");
+    background-image: url("images/nilogobg.png");
 }
 #navigator{
     height: 80px;
@@ -65,34 +65,34 @@ td{
     text-align: center;
 }
 #td1{
-    background-image: url("nilogo.png");
+    background-image: url("images/nilogo.png");
     width: 100px;
     height: 50px;
     text-align: center;
 }
 #td2{
-    background-image: url("nilogo.png");
+    background-image: url("images/nilogo.png");
     margin: auto;
     width: 100px;
     height: 50px;
     text-align: center;
 }
 #td3{
-    background-image: url("nilogo.png");
+    background-image: url("images/nilogo.png");
     margin: auto;
     width: 100px;
     height: 50px;
     text-align: center;
 }
 #td4{
-    background-image: url("nilogo.png");
+    background-image: url("images/nilogo.png");
     margin: auto;
     width: 100px;
     height: 50px;
     text-align: center;
 }
 #td5{
-    background-image: url("nilogo.png");
+    background-image: url("images/nilogo.png");
     margin: auto;
     width: 100px;
     height: 50px;
