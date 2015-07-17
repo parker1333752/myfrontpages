@@ -1,0 +1,17 @@
+p{
+    width: 500px;
+    background-color: gray;
+}
+.p1{
+    line-height: normal;
+    background-color: blueviolet;
+    cursor: wait;
+}
+.p2{
+    line-height: 200%;
+    background-color: aqua;
+}
+.p3{
+    line-height: 50%;
+    background-color: yellow;
+}
